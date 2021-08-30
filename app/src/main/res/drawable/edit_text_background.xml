@@ -3,7 +3,7 @@
 
     <gradient android:startColor="@color/purple_700" android:endColor="#2196F3" android:angle="360"/>
 
-    <stroke android:color="@color/destaque" android:width="4dp"/>
+    <stroke android:color="@color/destaque" android:width="1dp"/>
 
     <corners android:radius="16dp"/>
 
