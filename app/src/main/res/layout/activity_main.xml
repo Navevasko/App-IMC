@@ -106,7 +106,6 @@
         android:layout_gravity="center"
         android:layout_marginTop="32dp"
         android:textSize="48sp"
-        android:text="21,9"
         android:background="@drawable/result_background"
         android:textStyle="bold"
         />
